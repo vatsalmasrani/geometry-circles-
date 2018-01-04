@@ -1,9 +1,0 @@
-﻿  main.cpp
-c:\users\vatsal\source\repos\geometry\geometry\formulas.h(3): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\vatsal\source\repos\geometry\geometry\formulas.h(4): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\vatsal\source\repos\geometry\geometry\formulas.h(12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\vatsal\source\repos\geometry\geometry\formulas.h(16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\vatsal\source\repos\geometry\geometry\formulas.h(17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\vatsal\source\repos\geometry\geometry\formulas.h(27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
-  geometry.vcxproj -> C:\Users\vatsal\source\repos\geometry\Debug\geometry.exe
